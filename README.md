@@ -16,5 +16,5 @@ A simple and interactive web-based dashboard for managing projects, tasks, and t
 
 ## 🧩 Installation
 1. Clone the repository:
-   ```bash
+   ```bash.
    git clone https://github.com/AkshayAB45/Project-Management-Dashboard.git
